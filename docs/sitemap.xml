@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.rafkim.com/posts/my-first-post/</loc>
+    <loc>http://www.rafkim.com/posts/my-first-post/</loc>
     <lastmod>2020-02-01T10:05:29-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rafkim.com/posts/</loc>
+    <loc>http://www.rafkim.com/posts/</loc>
     <lastmod>2020-02-01T10:05:29-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rafkim.com/</loc>
+    <loc>http://www.rafkim.com/</loc>
     <lastmod>2020-02-01T10:05:29-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.rafkim.com/categories/</loc>
+    <loc>http://www.rafkim.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.rafkim.com/tags/</loc>
+    <loc>http://www.rafkim.com/tags/</loc>
   </url>
   
 </urlset>
