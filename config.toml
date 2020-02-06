@@ -1,4 +1,4 @@
-baseURL = "https://www.rafkim.com/hugo-quickstart/"
+baseURL = "https://www.rafkim.com"
 languageCode = "en-us"
 title = "Raf's Cool Stuff"
 theme = "ananke"
